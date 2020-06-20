@@ -72,6 +72,10 @@ body {
 	z-index: 2;
 }
 
+.resp {
+	width: 100%;
+	height: auto;
+}
 
 
 /*Next*/
@@ -308,6 +312,7 @@ header .logo {
 	background: linear-gradient(90deg,#0162c8,#55e7fc);
 	overflow: hidden;
 }
+
 
 
 
